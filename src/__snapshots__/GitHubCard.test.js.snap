@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a snapshot 1`] = `
+<div
+  className="GitCard"
+>
+  <header
+    className="GitCard-header"
+  >
+    <img
+      alt="Big Bear Mountain"
+      src="default.jpeg"
+    />
+    <h2>
+      Love to code and snowboard!
+    </h2>
+    <a
+      className="btn btn-dark"
+      disabled={false}
+      href="https://github.com/nicolas572"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      role="button"
+      tabIndex={0}
+    >
+      See My GitHub Profile!
+    </a>
+  </header>
+</div>
+`;
